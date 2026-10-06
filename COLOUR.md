@@ -68,6 +68,10 @@ value Figma uses most on its current pages is the brand value.**
 with `#C7FF13` wherever you find them: `#CCFF33` (the website's original token, labelled
 "Neon Green" in Figma), `#CBFF34` and `#B8FF00` (both on the older Rod Laver Arena page).
 
+**Exception: the logo artwork.** The logo and X mark files are drawn in `#CCFF33`
+(outline and gradient) and blue `#0033CC`. They are artwork: use them as supplied and
+don't recolour them to match the UI palette.
+
 **Still open:**
 
 | | Value used more | Value used less | What this folder uses |

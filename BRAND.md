@@ -77,5 +77,6 @@ silently.
 - **No brand book yet.** The roadmap lists a "Brand Book & Assets" as the Phase 2
   deliverable. This folder fills in until it exists.
 - **No version of the lockup for light backgrounds** (see LOGO.md).
-- **No vector logo masters.** Only PNGs exported from Figma.
+- **No original vector logo.** Figma only holds a PNG. `assets/logo/` has a traced
+  SVG/PDF stand-in (see LOGO.md).
 - **The founder is identified only as "Tony"**, with no surname, title or bio.
