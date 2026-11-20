@@ -12,7 +12,10 @@ summary. The detail lives in the sub-files below, and each one stands alone.
 | [LOGO.md](LOGO.md) | The lockup, the X mark, usage and asset files |
 | [IMAGERY.md](IMAGERY.md) | Photography direction and the graphic system (bars, rules, arrows, map, icons) |
 | [WEBSITE.md](WEBSITE.md) | How fanledx.com implements the brand: tokens, components, motion, Figma |
+| [PRESENTATION.md](PRESENTATION.md) | How a PowerPoint deck implements the brand: canvas, theme colours, layouts, components, writing for slides |
+| `fanledx-template.pptx` | The PowerPoint template: sixteen example slides on eight branded layouts |
 | `assets/logo/` | Master logo and mark PNGs |
+| `assets/graphics/` | Vertical bars, photo scrim and outline icons used by the template |
 
 When you start a new medium (deck template, email, print), give it its own file in the
 style of `WEBSITE.md` and link it here. Brand-wide rules go in the topic files, not the
